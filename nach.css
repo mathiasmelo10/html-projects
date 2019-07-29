@@ -1,0 +1,48 @@
+body{
+	background:url("nach1.jpg");
+	background-position:500px 250px;
+	background-attachment: fixed;
+	text-align:  left;
+	font- size: 26px;
+}
+li{
+	
+	color: #00ff6a;
+	
+}
+b{
+	font-size:  35px;
+	color: #ff7200;
+	font-family: Andale Mono, monospace;
+}
+h1{
+	font-size: 50px;
+	color:rgba(255,0,0,.8);
+	font-family:Stencil Std, fantasy;
+}
+p{
+	color: #00c7ff;
+	font-size: 36px;
+	font-family: OCR A Std, monospace;
+}
+.nombre{
+	color:#ccff00;
+	font-size: 78px;
+}
+.dosmildiecinueve{
+	color:#fdd000;
+	font-size: 74px;
+
+}
+.almanauta{
+	color: #7200ff;
+	font-size: 74px;
+	font-variant: small-caps; 
+
+}
+
+div{background-color:black ; color: #ff5400;
+	font-size: 26px;width: 500px;padding-left: 40px;margin: 0px;
+	display: inline-block;font-family: Arial Narrow, sans-serif; 
+
+}
